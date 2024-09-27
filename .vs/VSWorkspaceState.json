@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AspNetCoreWebAPIClientProject",
+    "\\AspNetCoreWebAPIClientProject\\Views"
   ],
+  "SelectedNode": "\\AspNetCoreWebAPIClientProject\\Views\\Product",
   "PreviewInSolutionExplorer": false
 }
