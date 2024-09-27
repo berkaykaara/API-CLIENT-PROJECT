@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\AspNetCoreWebAPIClientProject",
-    "\\AspNetCoreWebAPIClientProject\\Views"
+    "\\AspNetCoreWebAPIClientProject\\Views",
+    "\\AspNetCoreWebAPIClientProject\\Views\\Product",
+    "\\AspNetCoreWebAPIProject",
+    "\\AspNetCoreWebAPIProject\\Controllers"
   ],
-  "SelectedNode": "\\AspNetCoreWebAPIClientProject\\Views\\Product",
+  "SelectedNode": "\\AspNetCoreWebAPIProject\\Controllers\\ProductController.cs",
   "PreviewInSolutionExplorer": false
 }
